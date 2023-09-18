@@ -3,7 +3,8 @@
 Hi! It is Utku here. After a professional experience in Automotive Engineering and Consulting, I decided to take the chance to dive into the exciting world of coding!
 My Web Development journey has just started here at Spiced!
 
-And I am glad to say that I am a part of the cohort "Lime".
+And I am glad to say that I am a part of the cohort "Lime"
+
 ![limePicture](https://www.westfaliafruit.com/wp-content/uploads/2019/01/limes-300x300.jpg)
 
 
