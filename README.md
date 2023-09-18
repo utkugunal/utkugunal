@@ -1,7 +1,8 @@
 # :rocket: Welcome dear visitor!
 
-Hi! It is Utku here. After a professional experience in Automotive Engineering:blue_car: and Consulting:bar_chart:, I decided to take the chance to dive into the exciting world of coding!:computer:
-My Web Development journey has just started here at [Spiced](https://www.example.com](https://www.spiced-academy.com/en)!
+Hi! It is Utku here. After a professional experience in Automotive Engineering :blue_car: and Consulting :bar_chart: , I decided to take the chance to dive into the exciting world of coding! :computer:
+
+My Web Development journey has just started here at [Spiced](https://www.spiced-academy.com/en)!
 [Click to see my Linkedin](https://www.linkedin.com/in/utkugunal/)
 
 And I am glad to say that I am a part of the cohort "Lime".
