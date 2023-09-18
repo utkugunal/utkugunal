@@ -4,7 +4,7 @@ Hi! It is Utku here. After a professional experience in Automotive Engineering a
 My Web Development journey has just started here at Spiced!
 
 And I am glad to say that I am a part of the cohort "Lime".
-![limePicture](https://w7.pngwing.com/pngs/116/773/png-transparent-green-limes-cocktail-sweet-lemon-key-lime-pie-persian-lime-lime-food-citrus-lime-juice.png)
+![limePicture](https://w7.pngwing.com/pngs/116/773/png-transparent-green-limes-cocktail-sweet-lemon-key-lime-pie-persian-lime-lime-food-citrus-lime-juice.png =100x100)
 
 
 
