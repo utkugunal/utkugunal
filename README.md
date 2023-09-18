@@ -7,7 +7,13 @@ And I am glad to say that I am a part of the cohort "Lime"
 
 ![limePicture](https://www.westfaliafruit.com/wp-content/uploads/2019/01/limes-300x300.jpg)
 
-
+Some technologies I will learn within the scope of this bootcamp:
+- HTML
+- CSS
+- Java Script
+- React
+- Next.js
+- Mongo DB
 
 <!--
 **utkugunal/utkugunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
