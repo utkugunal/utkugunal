@@ -1,14 +1,15 @@
-# Welcome dear visitor!
+# :rocket: Welcome dear visitor!
 
-Hi! It is Utku here. After a professional experience in Automotive Engineering and Consulting, I decided to take the chance to dive into the exciting world of coding!
-My Web Development journey has just started here at Spiced!
+Hi! It is Utku here. After a professional experience in Automotive Engineering:blue_car: and Consulting:bar_chart:, I decided to take the chance to dive into the exciting world of coding!:computer:
+My Web Development journey has just started here at [Spiced](https://www.example.com](https://www.spiced-academy.com/en)!
+[Click to see my Linkedin](https://www.linkedin.com/in/utkugunal/)
 
-And I am glad to say that I am a part of the cohort "Lime"
+And I am glad to say that I am a part of the cohort "Lime".
 
 ![limePicture](https://www.westfaliafruit.com/wp-content/uploads/2019/01/limes-300x300.jpg)
 
 Some technologies I will learn within the scope of this bootcamp:
-- HTML
+- HTML 
 - CSS
 - Java Script
 - React
